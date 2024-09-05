@@ -10,7 +10,7 @@ In a world, the frequency of natural presents new challenges for the insurance i
 
 ## Models
 
-![示例图片](images/flow.png)
+![示例图片](flow.png)
 
 ### Insurance Model
 - **Objective:** Analyze the impact of extreme weather on Loss Ratios to guide decisions.
