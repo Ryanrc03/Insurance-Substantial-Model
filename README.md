@@ -3,7 +3,7 @@
 ## Project Overview
 This project addresses the challenges faced by the property and casualty insurance industry due to increasing natural disasters. We develop models to promote sustainable insurance practices and assess the preservation needs ofs.
 
-![示例图片](images/background2.png)
+![示例图片](background2.png)
 
 ## Background
 In a world, the frequency of natural presents new challenges for the insurance industry. This project aims to explore solutions through predictive and preservation.
