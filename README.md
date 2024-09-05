@@ -1,36 +1,37 @@
 # Insurance Sustainability Models
 
 ## Project Overview
-This project addresses the challenges faced by the property and casualty insurance industry due to increasing natural disasters. We develop models to promote sustainable insurance practices and assess the preservation needs of landmark buildings.
-
-## Table of Contents
-- [Background](#background)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Models](#models)
-  - [Insurance Model](#insurance-model)
-  - [Preservation Model](#preservation-model)
-- [Case Studies](#case-studies)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+This project addresses the challenges faced by the property and casualty insurance industry due to increasing natural disasters. We develop models to promote sustainable insurance practices and assess the preservation needs ofs.
 
 ## Background
-In a volatile world, the frequency of natural disasters presents new challenges for the insurance industry. This project explores sustainable solutions through predictive modeling and preservation assessment.
+In a world, the frequency of natural presents new challenges for the insurance industry. This project aims to explore solutions through predictive and preservation.
 
-## Installation
-To use this project, clone the repository and install the required dependencies.
+## Models
 
-```bash
-git clone https://github.com/yourusername/insurance-sustainability.git
-cd insurance-sustainability
-pip install -r requirements.txt
-``
+### Insurance Model
+- **Objective:** Analyze the impact of extreme weather on Loss Ratios to guide decisions.
+- **Techniques:**
+  - **Multiple Linear (MLR):** Used to predict Loss Ratiss based on historical data.
+  - **Long Short-Memory (L):** Incorporates time-series data for future predictions.
+- **Metrics:** Evaluated using Mean Squared Error (MSE) and R-Squared values.
 
-## Usage
-Run the main script to execute the models:
+### Preservation Model
+- **Objective:** Evaluate and rank buildings based on preservation needs.
+- **Method:** 
+  -s
+  - **Weighted Average:** Calculates the value for prioritisation.
+- **Application:** Helps in developing protection measures for different levels of preservation.
 
-.
+## Case Studies
+- **Locations:**s
+- **Example:**s, assessed for insurance and preservation needs.
 
-```bash
-python main.py
+## Results
+- **Model:** Demonstrated through Monte Monte sensitivity analysis.
+- **Recommendations:** Based on an 80 percent threshold for Loss Ratios.
+
+##s
+Conferences are welcome! Please fork the and send as.
+
+##
+This is licensed under the MIT. See the [][].
