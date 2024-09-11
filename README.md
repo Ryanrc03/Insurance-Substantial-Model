@@ -1,5 +1,4 @@
-# Insurance Sustainability Models
-
+# Machine Learning-based Insurance and Preservation Model
 ## Project Overview
 This project addresses the challenges faced by the property and casualty insurance industry due to increasing natural disasters. We develop models to promote sustainable insurance practices and assess the preservation needs ofs.
 
